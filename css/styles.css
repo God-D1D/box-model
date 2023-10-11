@@ -1,0 +1,72 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-color: black;
+    height: 100%;
+}
+
+.tableclass{
+  background-color: red;
+  color: white;
+  font-size: 18px;
+  border-style: solid;
+  border-color: white;
+  border-width: 10px;
+  height: 95%;
+  width: 100%;
+}
+
+.rowone{
+    background-color: blue;
+}
+
+.rowtwo{
+    background-color: green;
+    text-align: center;
+    color: yellow;
+}
+
+.rowonecolone{
+    border-style: solid;
+    border-color: yellow;
+    border-width: 5px;
+    padding-left: 100px;
+}
+
+.rowonecoltwo{
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+}
+
+.rowonecolthree{
+    border-style: dotted;
+    border-color: orange;
+    border-width: 5px;
+    color: red;
+    text-align: right;
+}
+
+.rowtwocolone{
+    background-color: purple;
+    border-style: double;
+    border-width: 5px;
+}
+
+.rowtwocoltwo{
+    border-style: groove;
+    border-width: 10px;
+    border-color: blue;
+    font-size: 28px;
+}
+
+.rowtwocolthree{
+    font-style: arial;
+    font-size: 22px;
+    color: purple;
+    border-style: inset;
+    border-width: 5px;
+    border-color: yellow;
+}
